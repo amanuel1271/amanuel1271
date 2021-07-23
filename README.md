@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Electrical Engineering with a minor in computer science
+Studying Electrical Engineering with a minor in computer science
 
 2017 fall - Present
 
