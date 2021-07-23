@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Electrical Engineering with a minor in computer science
+
+2017 fall - Present
+
 <!--
 **amanuel1271/amanuel1271** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
