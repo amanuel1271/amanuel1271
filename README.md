@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Amanuel Assefa</h1>
 
 <p align="center">
-  <a href="https://portfolio-red-sigma-99.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Software+Engineer;Real-time+systems+%C2%B7+Payments+%C2%B7+On-chain;Python+%7C+FastAPI+%7C+Node.js+%7C+PostgreSQL" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Software+Engineer;Real-time+systems+%C2%B7+Payments+%C2%B7+On-chain;Python+%7C+FastAPI+%7C+Node.js+%7C+PostgreSQL" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amanuel-assefa-2b4574177"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://portfolio-red-sigma-99.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:aman.siyum7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=amanuel1271&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
