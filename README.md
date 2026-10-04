@@ -87,11 +87,4 @@ class Amanuel:
 
 ---
 
-### 🚀 Side project
-
-**🏈 Gridiron Playbook: an LLM-powered football game** · `Python` `llama.cpp` `Qwen`
-A football game with an AI opponent and live commentary, powered by a local LLM that runs entirely on-device with no external APIs. A rule-based fallback keeps the game playable when the model is slow or unavailable.
-
----
-
 <p align="center"><i>💬 Open to backend roles in Seoul or remote · F-2-7 visa, no sponsorship needed</i></p>
