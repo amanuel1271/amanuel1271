@@ -16,7 +16,7 @@
 
 ```python
 class Amanuel:
-    role       = "Backend Software Engineer"
+    role       = "Software Engineer"
     location   = "Seoul, South Korea 🇰🇷"
     experience = "4+ years shipping production backends"
     education  = "B.S. Electrical Engineering, minor in CS @ KAIST"
