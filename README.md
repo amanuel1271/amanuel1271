@@ -18,7 +18,7 @@
 class Amanuel:
     role       = "Software Engineer"
     location   = "Seoul, South Korea 🇰🇷"
-    experience = "4+ years shipping production backends"
+    experience = "4+ years shipping production code"
     education  = "B.S. Electrical Engineering, minor in CS @ KAIST"
     languages  = ["English", "Korean", "Amharic"]
 
